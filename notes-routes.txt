@@ -1,0 +1,44 @@
+   <div className='Blog'>
+                <header>
+                    <nav>
+                        <ul>
+                            <li><a href='/'>Home</a></li>
+                            <li><a href='/'>New Post</a></li>
+                        </ul>
+                    </nav>
+                </header>
+				
+*************				*******************************************************
+
+.Blog ul {
+    width: 100%;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Blog li {
+    display: inline-block;
+    margin: 20px;
+
+}
+
+.Blog a {
+    text-decoration: none;
+    color: black;
+}
+
+.Blog a:hover,
+.Blog a:active
+{
+    color: orange;
+}
+
+***************************
+react-router 4.2.0
+react-router-dom 4.2.2
+
+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
+				
+				
