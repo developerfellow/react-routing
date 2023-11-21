@@ -1,0 +1,30 @@
+
+.Blog ul {
+    width: 100%;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Blog li {
+    display: inline-block;
+    margin: 20px;
+
+}
+
+.Blog a {
+    text-decoration: none;
+    color: black;
+}
+
+.Blog a:hover,
+.Blog a:active
+
+{
+    color: orange;
+}
+
+.Blog a.my-active{
+    color: orange;
+}
